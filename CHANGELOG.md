@@ -1,5 +1,11 @@
 # @kngsthvs/lib
 
+## 0.1.1
+
+### Patch Changes
+
+- Add protocol to refineLink
+
 ## 0.1.0
 
 ### Minor Changes
