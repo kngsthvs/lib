@@ -16,6 +16,10 @@ The official Kings & Thieves lib package for functions shared between apps.
 
 ## Resources
 
+### Functions
+
+- [libphonenumber-js](https://catamphetamine.gitlab.io/libphonenumber-js)
+
 ### Tools
 
 - [ESLint](https://eslint.org)

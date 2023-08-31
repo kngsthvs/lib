@@ -1,5 +1,11 @@
 # @kngsthvs/lib
 
+## 0.2.0
+
+### Minor Changes
+
+- Add schemas and tina fields
+
 ## 0.1.1
 
 ### Patch Changes
