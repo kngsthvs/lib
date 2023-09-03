@@ -1,7 +1,11 @@
 import { type TinaField } from "tinacms";
 import { url } from "../primitives";
 
-export const link = (props?: { collections?: string[] }): TinaField[] => {
+export const link = ({
+  collections = [],
+}: {
+  collections: string[];
+}): TinaField[] => {
   return [
     {
       label: "Name",
@@ -9,7 +13,7 @@ export const link = (props?: { collections?: string[] }): TinaField[] => {
       type: "string",
     },
     {
-      collections: props.collections,
+      collections,
       label: "Link",
       name: "href",
       type: "reference",

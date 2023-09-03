@@ -1,5 +1,11 @@
 # @kngsthvs/lib
 
+## 0.2.1
+
+### Patch Changes
+
+- Set default for link collections
+
 ## 0.2.0
 
 ### Minor Changes
