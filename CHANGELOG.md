@@ -1,5 +1,11 @@
 # @kngsthvs/lib
 
+## 0.3.0
+
+### Minor Changes
+
+- Force https:// and add shuffle
+
 ## 0.2.1
 
 ### Patch Changes
